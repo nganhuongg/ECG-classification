@@ -101,5 +101,7 @@ Performance ceiling is data-distribution driven, not model-capacity driven.
 This project demonstrates controlled experimental reasoning and bottleneck diagnosis rather than blind performance tuning.
 
 ## Contributors:
-Ngan Huong Nguyen - @nganhuongg(https://github.com/nganhuongg)
-Quang Kien Han - @kh268(https://github.com/kh268)
+Ngan Huong Nguyen - @nganhuongg[https://github.com/nganhuongg]
+
+
+Quang Kien Han - @kh268[https://github.com/kh268]
